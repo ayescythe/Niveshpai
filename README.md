@@ -1,11 +1,9 @@
 
 
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate ethical hacker from India</h3>
+<h3 align="center">A passionate ethical hacker</h3>
 
 - 🌱 I’m currently learning **Cybersecurity**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Niveshpai?tab=repositories](https://github.com/Niveshpai?tab=repositories)
 
 - 💬 Ask me about **CyberSecurity, C, HTML**
 
